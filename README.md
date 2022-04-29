@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WhereIsF1
-- 👀 I’m interested in js; c# & python
+- 👀 I’m interested in js; c# & python (tbh don't know what to say - I like Cats btw)
 - 🌱 I’m currently learning cpp
 
 <!---
