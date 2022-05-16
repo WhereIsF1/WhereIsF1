@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WhereIsF1
-- 👀 I’m interested in js; c# & python (tbh don't know what to say - I like Cats btw)
-- 🌱 I’m currently learning cpp
+- 🐈 I like cats 
 
 <!---
 WhereIsF1/WhereIsF1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
